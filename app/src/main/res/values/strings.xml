@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">StichworterRegister</string>
+    <string name="quellen_prefix">aktuelle Quelle: </string>
+    <string name="button_erfassen_text">Literaturquelle erfassen</string>
+    <string name="button_eintrag_speichern">Eintrag speichern</string>
+    <string name="button_source_text">Quelle zuruckliefern</string>
+    <string name="kurzbezeichnung_label_titel">Kurzbezeichnung der Quelle</string>
+    <string name="titel_label_titel">Titel der Quelle</string>
+    <string name="autoren_titel">Autoren</string>
+    <string name="verlag_titel">Verlag, Ort oder URL</string>
+    <string name="publikationsdatum_titel">Publikationsdatum</string>
+    <string name="quellen_not_null">\"Kurzbezeichnung\",\"Titel\", \"Autoren\", \"Verlag, Ort oder URL\" dürfen nicht leer bleiben</string>
+    <string name="stichwort_titel">Stichwort</string>
+    <string name="fundstelle_titel">Fundstelle</string>
+    <string name="freier_text_titel">Freier Text zum Stichwort</string>
+    <string name="stichworte_not_null">\"Stichwort\",\"Fundstelle\" oder \"Freier Text\" dürfen nicht leer bleiben</string>
+    <string name="eintrag_gespeichert">Eintrag gespeichert</string>
+    <string name="eintrag_nicht_gespeichert">Eintrag kontte nicht gespeichert werden!</string>
+    <string name="leere_quelle">Die quelle darf nicht leer bleiben!</string>
+</resources>
